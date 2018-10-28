@@ -7,7 +7,7 @@
 * [Bottos Node](docs/BottosNode.md)
     * [Node Introduction](docs/NodeIntroduction.md)
     * [Network Topology](docs/NetworkTopology.md)
-    * [BCLI](docs/BCLI1.md)
+    * [BCLI](docs/BCLI.md)
 * [Smart Contract](docs/SmartContract.md)
     * [C++](docs/C++.md)
     * [Deploying and Testing](docs/DeployingandTesting.md)
